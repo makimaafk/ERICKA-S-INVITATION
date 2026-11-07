@@ -108,7 +108,7 @@ document.addEventListener("DOMContentLoaded", function () {
   "e1.jpg" ,
   "em12.jpg",
   "em13.jpg",
- "a1.jpg", "a2.jpg", "a3.jpg", "a4.jpg", "a5.jpg", "a6.jpg", "a7.jpg", "a8.jpg","ae1.jpg", "ae2.jpg", "ae3.jpg", "ae4.jpg",
+ "A1.jpg", "a2.jpg", "a3.jpg", "a4.jpg", "a5.jpg", "a6.jpg", "a7.jpg", "a8.jpg","ae1.jpg", "ae2.jpg", "ae3.jpg", "ae4.jpg",
  "ae5.jpg", "ae6.jpg", "ae7.jpg"
        ,"E18.jpg",
 
